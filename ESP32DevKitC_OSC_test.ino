@@ -33,7 +33,7 @@ void loop(){
     udp.endPacket();
     msg.empty();
   }
-  //Wait for 1 second
+  //Wait
   delay(2);
 }
 
